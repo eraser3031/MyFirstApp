@@ -13,7 +13,6 @@
 		21029F39245EF7B100970AC8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21029F38245EF7B100970AC8 /* Assets.xcassets */; };
 		21029F3C245EF7B100970AC8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21029F3B245EF7B100970AC8 /* Preview Assets.xcassets */; };
 		21029F3F245EF7B100970AC8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21029F3D245EF7B100970AC8 /* LaunchScreen.storyboard */; };
-		21029F47245EF94A00970AC8 /* File in Resources */ = {isa = PBXBuildFile; fileRef = 21029F46245EF94A00970AC8 /* File */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		21029F3B245EF7B100970AC8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		21029F3E245EF7B100970AC8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		21029F40245EF7B100970AC8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		21029F46245EF94A00970AC8 /* File */ = {isa = PBXFileReference; lastKnownFileType = text; path = File; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +63,6 @@
 				21029F3D245EF7B100970AC8 /* LaunchScreen.storyboard */,
 				21029F40245EF7B100970AC8 /* Info.plist */,
 				21029F3A245EF7B100970AC8 /* Preview Content */,
-				21029F46245EF94A00970AC8 /* File */,
 			);
 			path = MyFirstApp;
 			sourceTree = "<group>";
@@ -136,7 +133,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				21029F47245EF94A00970AC8 /* File in Resources */,
 				21029F3F245EF7B100970AC8 /* LaunchScreen.storyboard in Resources */,
 				21029F3C245EF7B100970AC8 /* Preview Assets.xcassets in Resources */,
 				21029F39245EF7B100970AC8 /* Assets.xcassets in Resources */,
